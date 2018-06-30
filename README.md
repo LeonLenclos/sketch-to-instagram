@@ -1,6 +1,7 @@
 # Sketch To Instagram
 
-This is a simple software that allow you to
+This is a simple software that allow you to :
 
-1- Draw something
-2- Post this drawing on Instagram
+1. Draw something
+
+2. Post this drawing on Instagram
