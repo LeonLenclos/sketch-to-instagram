@@ -1,0 +1,6 @@
+tuto/*
+build/*
+*.jpg
+*.ps
+*.png
+__pycache__/*
