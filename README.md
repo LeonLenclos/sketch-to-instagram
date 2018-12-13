@@ -1,3 +1,5 @@
+**Warning ! After a few weeks using this software my Instagram Account has been desactived. Don't know exactly why but seems like they does not like this kind of hack**
+
 # Sketch To Instagram
 
 This is a simple software that allow you to :
