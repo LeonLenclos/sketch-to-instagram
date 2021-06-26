@@ -1,4 +1,4 @@
-**Warning ! After a few weeks using this software my Instagram account has been deactived. Don't know exactly why but seems like they does not like this kind of hack**
+**Warning ! After a few weeks using this software my Instagram account has been deactived. Don't know exactly why but seems like they don't like this kind of hack**
 
 # Sketch To Instagram
 
